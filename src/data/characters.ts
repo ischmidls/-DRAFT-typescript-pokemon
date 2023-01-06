@@ -1,0 +1,2 @@
+const charactersMapData: Array<number> = [
+]
